@@ -2,7 +2,7 @@
 太简单了就不介绍了
 
 界面如图
-(https://github.com/meimz/wymp3/blob/master/%E6%88%90%E5%93%81/demo.gif)
+![界面如图](https://github.com/meimz/wymp3/blob/master/%E6%88%90%E5%93%81/demo.gif)
 
 网易音乐缓存文件转mp3
 技术参考 鬼手 博客 https://blog.csdn.net/qq_38474570/article/details/87878235?tdsourcetag=s_pcqq_aiomsg
